@@ -5,6 +5,7 @@
   "scripts": {
     "start": "json-server --watch db.json"
   },
+  "author": "nbkhope",
   "license": "MIT",
   "dependencies": {
     "json-server": "^0.12.1"
