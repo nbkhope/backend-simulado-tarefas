@@ -8,6 +8,6 @@
   "author": "nbkhope",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.12.1"
+    "json-server": "^0.17.1"
   }
 }
